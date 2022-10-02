@@ -1,5 +1,23 @@
 # @blitzjs/codemod
 
+## 2.0.0-beta.5
+
+### Patch Changes
+
+- b3b4c215: Unwrap `invokeWithMiddleware` so the query or mutation is called directly when running the codemod
+- Updated dependencies [9db6c885]
+- Updated dependencies [824a9b5e]
+- Updated dependencies [bf4aaf1d]
+- Updated dependencies [9fe0cc54]
+- Updated dependencies [b43c1a81]
+- Updated dependencies [af58e2b2]
+- Updated dependencies [0edeaa37]
+- Updated dependencies [430f6ec7]
+- Updated dependencies [15d22af2]
+- Updated dependencies [e2c18895]
+  - blitz@2.0.0-beta.5
+  - @blitzjs/generator@2.0.0-beta.5
+
 ## 2.0.0-beta.4
 
 ### Patch Changes
