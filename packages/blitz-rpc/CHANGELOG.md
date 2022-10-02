@@ -1,5 +1,13 @@
 # @blitzjs/rpc
 
+## 2.0.0-beta.5
+
+### Patch Changes
+
+- 0edeaa37: Allow for custom page extensions for the wildcard blitz route. For example [...blitz].api.ts. For more information vist https://nextjs.org/docs/api-reference/next.config.js/custom-page-extensions
+- Updated dependencies [9fe0cc54]
+  - @blitzjs/auth@2.0.0-beta.5
+
 ## 2.0.0-beta.4
 
 ### Patch Changes
